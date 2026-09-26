@@ -1,14 +1,17 @@
 name: Generate Trophy
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   trophy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -19,12 +22,12 @@ jobs:
           username: smit-chavda6
           file: trophy.svg
           theme: tokyonight
-          token: ${{secrets.PROFILE_TROPHY_TOKEN}}
+          token: ${{ secrets.PROFILE_TROPHY_TOKEN }}
 
       - name: Commit trophy image
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
           git commit -m "Update trophy image" || echo "No changes to commit"
           git push
