@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6C3EDB&height=200&section=header&text=Smit%20Chavda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/smit-chavda6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Smitchavda6756@gmail.com"><img src="https://img.shields.io/badge/Email-6C3EDB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/smit-chavda6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/smit-chavda6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:Smitchavda6756@gmail.com"><img src="https://img.shields.io/badge/Email-6C3EDB?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/smit-chavda6"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -18,7 +16,7 @@
 
 <br/>
 
-## 📋 About
+## <img src="https://img.shields.io/badge/-›-0078D4?style=flat-square&logoColor=white" width="20"/> About
 
 ```yaml
 name:       Smit Chavda
@@ -29,15 +27,15 @@ focus:      LLM integration · full-stack development · cloud-native AI systems
 exploring:  Multi-provider LLM gateways · semantic caching · vector search
 ```
 
-- Building and deploying **generative AI features** for production web applications
-- Designing systems that integrate **OpenAI, Anthropic, Gemini & Azure AI Foundry** into real workflows
-- Full-stack: React/TypeScript on the front, FastAPI/Node on the back, Azure in the cloud
-- Currently deepening my work in **LLM observability, RAG, and vector search architectures**
-- Reach me at **Smitchavda6756@gmail.com**
+* Building and deploying **generative AI features** for production web applications
+* Designing systems that integrate **OpenAI, Anthropic, Gemini & Azure AI Foundry** into real workflows
+* Full-stack: React/TypeScript on the front, FastAPI/Node on the back, Azure in the cloud
+* Currently deepening my work in **LLM observability, RAG, and vector search architectures**
+* Reach me at **[Smitchavda6756@gmail.com](mailto:Smitchavda6756@gmail.com)**
 
 <br/>
 
-## 🧰 Tech Stack
+## <img src="https://img.shields.io/badge/Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" width="28"/> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,c,cpp&theme=dark" /><br/>
@@ -47,13 +45,14 @@ exploring:  Multi-provider LLM gateways · semantic caching · vector search
 
 <br/>
 
-## ✨ Featured Projects
+## <img src="https://img.shields.io/badge/Projects-6C3EDB?style=flat-square&logo=github&logoColor=white" width="50"/> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [InferMesh](https://github.com/smit-chavda6/infermesh)
+
 **Multi-Provider LLM Gateway & Observability Platform**
 
 Unifies OpenAI, Anthropic, Gemini & Azure behind one OpenAI-compatible API — cross-provider fallback, circuit breaking, two-tier (exact + pgvector semantic) caching, 248+ automated tests, 4-job CI.
@@ -64,6 +63,7 @@ Unifies OpenAI, Anthropic, Gemini & Azure behind one OpenAI-compatible API — c
 <td width="50%" valign="top">
 
 ### [ContextOS](https://github.com/smit-chavda6/contextos)
+
 **AI Context-Persistence Browser Extension**
 
 Bridges session state across ChatGPT, Claude, Gemini & DeepSeek via a fully client-side vector search engine — zero external database, privacy by design.
@@ -76,6 +76,7 @@ Bridges session state across ChatGPT, Claude, Gemini & DeepSeek via a fully clie
 <td width="50%" valign="top">
 
 ### [ManProTech](https://manprotech.in)
+
 **Full-Stack Corporate Website & CMS**
 
 15+ page React SPA with a custom PHP/MySQL backend, 17+ REST endpoints, and an SSR pre-render layer solving SEO for a client-rendered app.
@@ -86,6 +87,7 @@ Bridges session state across ChatGPT, Claude, Gemini & DeepSeek via a fully clie
 <td width="50%" valign="top">
 
 ### Home Decor Furniture
+
 **Full-Stack E-commerce Platform**
 
 Gemini-powered shopping assistant with intelligent product search and caching — cut API costs by 85%.
@@ -98,7 +100,7 @@ Gemini-powered shopping assistant with intelligent product search and caching �
 
 <br/>
 
-## 📊 GitHub Analytics
+## <img src="https://img.shields.io/badge/Analytics-0078D4?style=flat-square&logo=github&logoColor=white" width="50"/> GitHub Analytics
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=smit-chavda6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%"/>
@@ -110,4 +112,3 @@ Gemini-powered shopping assistant with intelligent product search and caching �
 </div>
 
 <br/>
-
