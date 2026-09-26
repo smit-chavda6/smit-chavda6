@@ -22,7 +22,7 @@ jobs:
           username: smit-chavda6
           file: trophy.svg
           theme: tokyonight
-          token: ${{ secrets.PROFILE_TROPHY_TOKEN || github.token }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy image
         run: |
