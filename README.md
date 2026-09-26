@@ -111,17 +111,3 @@ Gemini-powered shopping assistant with intelligent product search and caching ‚Ä
 
 <br/>
 
-## üèÜ GitHub Trophies
-
-
-<div align="center">
-
-![divider](https://img.shields.io/badge/-%E2%80%A2%E2%80%A2%E2%80%A2-6C63FF?style=flat-square)
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=smit-chavda6&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3EDB,100:0078D4&height=100&section=footer" width="100%"/>
-
-</div>
