@@ -1,0 +1,27 @@
+name: Generate Trophy
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually anytime
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Trophies
+        uses: ryo-ma/github-profile-trophy@v1
+        with:
+          username: smit-chavda6
+          theme: tokyonight
+          no-frame: true
+          row: 1
+          column: 6
+          output: github-trophies.svg
+
+      - name: Commit trophy image
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-trophies.svg
+          git commit -m "Update trophy image" || echo "No changes to commit"
+          git push
