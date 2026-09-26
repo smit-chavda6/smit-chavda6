@@ -113,11 +113,6 @@ Gemini-powered shopping assistant with intelligent product search and caching â€
 
 ## ğŸ† GitHub Trophies
 
-<div align="center">
-<img src="./github-trophies.svg" />
-</div>
-
-<br/>
 
 <div align="center">
 
